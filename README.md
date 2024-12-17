@@ -31,8 +31,8 @@ NAVER_ID=your_naver_id
 NAVER_PW=your_naver_password
 ```
 
-2. 본인 Chrome 버전에 맞는 Chrome Web Driver 다운로드 후 폴더에 추가
-[Chrome Web Driver 다운로드](https://googlechromelabs.github.io/chrome-for-testing/)
+2. 본인 Chrome 버전에 맞는 [Chrome Web Driver 다운로드](https://googlechromelabs.github.io/chrome-for-testing/) 후 폴더에 추가
+
 
 ## 사용 방법
 
