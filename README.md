@@ -14,7 +14,7 @@
 
 1. 저장소 클론
 ```
-git clone [repository-url]
+git clone https://github.com/incheonQ/cafe_attendance.git
 cd naver-cafe-attendance
 ```
 
