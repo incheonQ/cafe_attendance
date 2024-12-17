@@ -43,8 +43,6 @@ python main.py
 
 2. 사용자 지정 메시지로 출석체크
 ```
-python main.py
-# 또는
 python main.py -m "출석체크! 오늘도 화이팅!"
 # 또는
 python main.py --message "출석체크! 오늘도 화이팅!"
