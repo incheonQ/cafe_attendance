@@ -32,7 +32,7 @@ NAVER_PW=your_naver_password
 ```
 
 2. 본인 Chrome 버전에 맞는 Chrome Web Driver 다운로드 후 폴더에 추가
-https://googlechromelabs.github.io/chrome-for-testing/
+[Chrome Web Driver 다운로드](https://googlechromelabs.github.io/chrome-for-testing/)
 
 ## 사용 방법
 
@@ -68,4 +68,4 @@ cafe-attendance/
 - Chrome 브라우저가 설치되어 있어야 합니다.
 - 네이버의 보안 정책에 따라 로그인 시 추가 인증이 필요할 수 있습니다.
 - 과도한 자동화는 계정 제재의 원인이 될 수 있으니 주의하시기 바랍니다.
-- 본 프로그램은 메타코드 카페(https://cafe.naver.com/love3339) 의 출석체크에 한정된 기능입니다.
+- 본 프로그램은 [메타코드 카페](https://cafe.naver.com/love3339)의 출석체크에 한정된 기능입니다.
